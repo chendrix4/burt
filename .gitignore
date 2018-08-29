@@ -1,0 +1,10 @@
+/bin/*
+/include/*
+/lib/*
+lib64
+/share/*
+*.cfg
+/config/*
+__pycache__
+.cache-1258857926
+pip-selfcheck.json
